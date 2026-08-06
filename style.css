@@ -159,3 +159,17 @@ footer{
         font-size:30px;
     }
 }
+.back-btn{
+    display:inline-block;
+    padding:14px 28px;
+    background:#00bfff;
+    color:white;
+    text-decoration:none;
+    border-radius:10px;
+    font-weight:bold;
+    transition:0.3s;
+}
+
+.back-btn:hover{
+    background:#009acd;
+}
